@@ -1,4 +1,4 @@
-[![MasterHead]<https://images.app.goo.gl/qpe5tuYHb2ECHbRh9>]<www.linkedin.com/in/rutujaasabe09>
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutujaasabe19&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/p7hCo9TVfE6jEJV3A">

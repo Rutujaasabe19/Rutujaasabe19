@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
 
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/ndHbkkftZNEdpggw6">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif&imgrefurl=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&tbnid=lahMOKRfUGYsqM&vet=1&docid=0mKPiLrZS3atRM&w=800&h=600&source=sh%2Fx%2Fim">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaasabe19&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe19" /> </p>
 
 - 🔭 I’m currently working on web development project **InstantDelivery**

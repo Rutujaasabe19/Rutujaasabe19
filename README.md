@@ -1,4 +1,3 @@
-![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutujaasabe19&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/p7hCo9TVfE6jEJV3A">
@@ -29,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaasabe19&show_icons=true&locale=en&layout=compact" alt="rutujaasabe19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaasabe19&show_icons=true&locale=en" alt="rutujaasabe19" /></p>
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutujaasabe19&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaasabe19&" alt="rutujaasabe19" /></p>
